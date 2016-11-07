@@ -1,0 +1,66 @@
+﻿body {
+width: 520px;
+font: 16px calibri, serif;
+}
+
+h1 {
+font: bold 26px calibri, serif;
+text-align: left;   
+}
+
+p.p1 {
+font: italic 16px cambria, serif;
+text-align: left;
+}
+
+hr {
+color:blue;
+}
+.label1{
+	float:left;
+}
+.myButton {
+float: right;
+background-color: #28739E;
+-moz-border-radius:28px;
+-webkit-border-radius:28px;
+border-radius:28px;
+border:1px solid black;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Arial;
+font-size:17px;
+padding:16px 31px;
+text-decoration:none;
+}
+
+.myButton:active {
+position:relative;
+top:1px;
+}
+
+.form-style-9 {
+max-width: 450px;
+background: #FAFAFA;
+padding: 80px;
+margin: 50px auto;
+box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+border-radius: 10px;
+border: 3px solid black;
+}
+
+ul {
+	list-style: none;
+}
+.form-style-9 ul{
+padding:0;
+margin:0;
+list-style:none;
+}
+
+.form-style-9 ul li{
+display: block;
+margin-bottom: 10px;
+min-height: 35px;
+}
